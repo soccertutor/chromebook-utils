@@ -1,0 +1,13 @@
+{
+  "name": "chromebook_utils",
+  "url": "",
+  "license": "MIT",
+  "tags": ["android", "chromebook"],
+  "description": "",
+  "version": "1.0.0",
+  "releasenote": "",
+  "contributors": ["buble"],
+  "dependencies": {
+
+  }
+}
